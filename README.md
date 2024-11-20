@@ -1,16 +1,15 @@
 # sm_task
 
-A new Flutter project.
 
-## Getting Started
+## About framework setup
 
-This project is a starting point for a Flutter application.
+This project use FVM version 3.24.5 \n
 
-A few resources to get you started if this is your first Flutter project:
+Hive for local storage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dio for HTTP request
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Video Demo Apk File
+https://drive.google.com/drive/folders/1aGVd6Ln4NN6RxFjEa1sSQfrNwjPv0vlp?usp=sharing
